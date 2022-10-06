@@ -16,4 +16,4 @@ def calculate_lcm(x, y):
 num1 = int(input("Enter first number: "))  
 num2 = int(input("Enter second number: "))  
 # printing the result for the users  
-print("The L.C.M. of", num1,"and", num2,"is", calculate_lcm(num1, num2)) 
+print("The L.C.M. of", num1,"and", num2,"is", calculate_lcm(num1, num2))
